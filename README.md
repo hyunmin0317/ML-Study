@@ -14,9 +14,6 @@
 
 * ### Python
 * ### Machine Learning
-* ### NLP
-* ### NumPy
-* ### pandas
 * ### scikit-learn
 * ### XGBoost
 * ### LightGBM
