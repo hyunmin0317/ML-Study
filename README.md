@@ -12,7 +12,6 @@
 
 ## :notebook_with_decorative_cover: Tech Stack
 
-* ### Python
 * ### Machine Learning
 * ### scikit-learn
 * ### XGBoost
